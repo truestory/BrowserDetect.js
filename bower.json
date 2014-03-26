@@ -1,0 +1,16 @@
+{
+  "name": "browserDetect",
+  "version": "0.0.1",
+  "description": "Javascript library that helps you detect browsers",
+  "main": "BrowserDetect.js",
+  "homepage": "https://github.com/truestory/BrowserDetect.js",
+  "authors": [
+    "Benoit Nolens"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "ignore": [
+  ]
+}
